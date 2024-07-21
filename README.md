@@ -1,11 +1,11 @@
-# Real_Estate_Feature_Engineering
-🕵️‍♂️👨‍💻👨‍🔧This repository explores feature engineering techniques and machine learning steps tailored for real estate analysis and prediction. From data preprocessing to model evaluation, the project aims to enhance the predictive power of real estate models through systematic feature engineering and robust machine learning practices.
+# Real_Estate_Feature_Engineering🕵️‍♂️👨‍💻👨‍🔧
+This repository explores feature engineering techniques and machine learning steps tailored for real estate analysis and prediction. From data preprocessing to model evaluation, the project aims to enhance the predictive power of real estate models through systematic feature engineering and robust machine learning practices.
 
 ### Key Components:
 
    - Data Cleaning and Preprocessing: Techniques to handle missing data, outliers, and normalization suitable for real estate datasets.
 
-   - Feature Selection: Strategies to identify and select the most relevant features that contribute to predictive models' accuracy and interpretability.
+   - Feature Selection: Strategies to identify and select the most relevant features that contribute to predictive models accuracy and interpretability.
 
    - Feature Engineering: Transforming raw real estate data into meaningful features that capture domain knowledge and enhance model performance.
 
@@ -15,21 +15,24 @@
 
 ### Usage:
 
-    1. Clone the Repository:
+ 1. Clone the Repository:
 
     ```bash
-
-git clone https://github.com/your-username/real-estate-feature-engineering.git
-cd real-estate-feature-engineering
-    ```
-    2. Install Dependencies: Ensure Python and required libraries are installed:
-
-    ```bash
-
-    pip install -r requirements.txt
+    
+       git clone https://github.com/your-username/real-estate-feature-engineering.git
+       cd real-estate-feature-engineering
+       
     ```
     
-    3. Explore Jupyter Notebooks: Dive into provided Jupyter notebooks (.ipynb) that demonstrate each step of the feature engineering and machine learning process.
+ 2. Install Dependencies: Ensure Python and required libraries are installed:
+
+    ```bash
+    
+       pip install -r requirements.txt
+       
+    ```
+    
+ 3. Explore Jupyter Notebooks: Dive into provided Jupyter notebooks (.ipynb) that demonstrate each step of the feature engineering and machine learning process.
 
 Contributing:
 
